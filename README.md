@@ -1,4 +1,4 @@
-<!-- 🌟 Fahry Aditya Setiawan — Modern 2025 GitHub Profile -->
+<!-- 🌟 Fahry Aditya Setiawan  Modern 2025 GitHub Profile -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
