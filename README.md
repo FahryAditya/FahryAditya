@@ -106,6 +106,50 @@
 </p>
 
 
+<h3 align="center">🎧 Coding Vibes — Favorite Songs While Coding</h3>
+
+<p align="center">
+  <video width="350" autoplay loop muted playsinline style="border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.4);">
+    <source src="https://github.com/FahryAditya/VidioMd/blob/9c75cf7e892e335f9174b151feab7334329cb523/video_20251013_195422_edit.mp4?raw=true" type="video/mp4">
+    Browser kamu tidak mendukung elemen video HTML5.
+  </video>
+</p>
+
+
+ 🎶 Favorite Song. 🎧
+ 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="80" style="border-radius:10px;"/><br/>
+      🎵 Umapyoi Densetsu– Uma Musume
+    </td>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="80" style="border-radius:10px;"/><br/>
+      🎵 Tracen Ondo – Uma Musume: Pretty Derby
+    </td>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110127.jpg" width="80" style="border-radius:10px;"/><br/>
+      🎵 Otsukare Summer – HALCALI
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="80" style="border-radius:10px;"/><br/>
+      🎵 Please Please-Ayaka Osashi
+    </td>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="80" style="border-radius:10px;"/><br/>
+      🎵 Grand Escape - Radwimps
+    </td>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="80" style="border-radius:10px;"/><br/>
+      🎵 Winning The Soul - Oguri Cap (CV: Tomohito Takayanagi),
+    </td>
+  </tr>
+</table>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=footer"/>
