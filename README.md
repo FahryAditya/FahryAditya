@@ -109,12 +109,13 @@
 <h3 align="center">🎧 Coding Vibes — Favorite Songs While Coding</h3>
 
 <p align="center">
-  <video width="350" autoplay loop muted playsinline style="border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.4);">
-    <source src="https://github.com/FahryAditya/VidioMd/blob/9c75cf7e892e335f9174b151feab7334329cb523/video_20251013_195422_edit.mp4?raw=true" type="video/mp4">
-    Browser kamu tidak mendukung elemen video HTML5.
-  </video>
+  <img
+    src="https://github.com/FahryAditya/New-Project/blob/930246fad9a31db9f1d95225f17cbf879db46f7f/GIF_20251013204049229.gif?raw=true"
+    width="350"
+    style="border-radius:15px;"
+    alt="Coding Vibe GIF"
+  />
 </p>
-
 
  🎶 Favorite Song. 🎧
  
