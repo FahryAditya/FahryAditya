@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbfghw8/WhatsApp%20Image%202025-10-11%20at%2021.38.05.jpeg" width="160" style="border-radius:50%; border: 4px solid #20Progress-2-yellow;" alt="Profile Picture"/>
+  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbfghw8/WhatsApp%20Image%202025-10-11%20at%2021.38.05.jpeg" width="160" style="border-radius:50%; border: 4px solid #00CFFF;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
@@ -40,6 +40,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,androidstudio&perline=7" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -105,25 +107,16 @@
   />
 </p>
 
-
-<h3 align="center">🎧 Coding Vibes — Favorite Songs While Coding</h3>
-
+<!-- ✅ FIXED GIF — Use raw.githubusercontent.com for correct rendering -->
 <p align="center">
-  <img
-    src="https://github.com/FahryAditya/New-Project/blob/930246fad9a31db9f1d95225f17cbf879db46f7f/GIF_20251013204049229.gif?raw=true"
-    width="350"
-    style="border-radius:15px;"
-    alt="Coding Vibe GIF"
-  />
+  <img src="https://raw.githubusercontent.com/FahryAditya/New-Project/a92189661cc2803c5fdc54248d3b55902d5adf3f/GIF_20251013204049229.gif" width="350" alt="Coding Music GIF" style="border-radius:10px;"/>
 </p>
 
- 🎶 Favorite Song. 🎧
- 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="80" style="border-radius:10px;"/><br/>
-      🎵 Umapyoi Densetsu– Uma Musume
+      🎵 Umapyoi Densetsu – Uma Musume
     </td>
     <td align="center">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="80" style="border-radius:10px;"/><br/>
@@ -137,20 +130,18 @@
   <tr>
     <td align="center">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="80" style="border-radius:10px;"/><br/>
-      🎵 Please Please-Ayaka Osashi
+      🎵 Please Please – Ayaka Osashi
     </td>
     <td align="center">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="80" style="border-radius:10px;"/><br/>
-      🎵 Grand Escape - Radwimps
+      🎵 Grand Escape – Radwimps
     </td>
     <td align="center">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="80" style="border-radius:10px;"/><br/>
-      🎵 Winning The Soul - Oguri Cap (CV: Tomohito Takayanagi),
+      🎵 Winning the Seoul – Oguri Cap
     </td>
   </tr>
 </table>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=footer"/>
