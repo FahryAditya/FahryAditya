@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zv4nwbv/113114.jpg" width="160" style="border-radius:50%; border: 4px solid #00CFFF;" alt="Profile Picture"/>
+  <img src="" width="160" style="border-radius:50%; border: 4px solid #00CFFF;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me
-> 👨‍🎓 I’m a **15-year-old SMK student** passionate about coding, design, and innovation.  
+https://uploads.onecompiler.io/43k3cj6jv/43zv4vhxr/113118.jpg> 👨‍🎓 I’m a **15-year-old SMK student** passionate about coding, design, and innovation.  
 > 💻 Specialized in **Java development** and curious about full-stack web technologies.  
 > 🌱 Currently learning **Spring Boot**, **MySQL**, and **REST API integration**.  
 > 🧩 I love building projects that combine logic, creativity, and clean design.  
