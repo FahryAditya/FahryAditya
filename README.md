@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me
-https://uploads.onecompiler.io/43k3cj6jv/43zv4vhxr/113118.jpg> 👨‍🎓 I’m a **15-year-old SMK student** passionate about coding, design, and innovation.  
+> 👨‍🎓 I’m a **15-year-old SMK student** passionate about coding, design, and innovation.  
 > 💻 Specialized in **Java development** and curious about full-stack web technologies.  
 > 🌱 Currently learning **Spring Boot**, **MySQL**, and **REST API integration**.  
 > 🧩 I love building projects that combine logic, creativity, and clean design.  
