@@ -4,13 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43z87fgca/WhatsApp%20Image%202025-10-10%20at%2019.42.49.jpeg" width="160" style="border-radius:50%; border: 4px solid #00CFFF;" alt="Profile Picture"/>
+  <img src="https://uploads.onecompiler.io/43k3cj6jv/43u96u54j/5e2e1e0f-951e-4d1e-a8c2-0a201e102021%20(1).jpg" width="160" style="border-radius:50%; border: 4px solid #060800ff;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
 <h3 align="center">☕ Java Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
 ---
+
 
 ### 🧠 About Me
 > 👨‍🎓 I’m a **15-year-old SMK student** passionate about coding, design, and innovation.  
@@ -109,7 +110,7 @@
 
 <!-- ✅ FIXED GIF — Use raw.githubusercontent.com for correct rendering -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahryAditya/New-Project/a92189661cc2803c5fdc54248d3b55902d5adf3f/GIF_20251013204049229.gif" width="350" alt="Coding Music GIF" style="border-radius:10px;"/>
+  <img src="https://github.com/FahryAditya/Properti/blob/7cf758509dfda83b444f111a69714f0bf8a44475/GIF_20251026134716617.gif" width="350" alt="Coding Music GIF" style="border-radius:10px;"/>
 </p>
 
 <table align="center">
