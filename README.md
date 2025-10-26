@@ -110,7 +110,7 @@
 
 <!-- ✅ FIXED GIF — Use raw.githubusercontent.com for correct rendering -->
 <p align="center">
-  <img src="https://github.com/FahryAditya/Properti/blob/7cf758509dfda83b444f111a69714f0bf8a44475/GIF_20251026134716617.gif" width="350" alt="Coding Music GIF" style="border-radius:10px;"/>
+  <img src="https://github.com/FahryAditya/Properti/blob/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="350" alt="Coding Music GIF" style="border-radius:10px;"/>
 </p>
 
 <table align="center">
