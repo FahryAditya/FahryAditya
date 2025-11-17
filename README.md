@@ -1,4 +1,4 @@
-<!-- 🌟 Fahry Aditya Setiawan  Modern 2025 GitHub Profile -->
+l<!-- 🌟 Fahry Aditya Setiawan  Modern 2025 GitHub Profile -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -8,14 +8,14 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
-<h3 align="center">☕ Java Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">☕ Java Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner | Programmer Robotika</h3>
 
 ---
 
 
 ### 🧠 About Me
 > 👨‍🎓 I’m a **15-year-old SMK student** passionate about coding, design, and innovation.  
-> 💻 Specialized in **Java development** and curious about full-stack web technologies.  
+> 💻 Specialized in  **Programmer Robotika** **Java development** and curious about full-stack web technologies.  
 > 🌱 Currently learning **Spring Boot**, **MySQL**, and **REST API integration**.  
 > 🧩 I love building projects that combine logic, creativity, and clean design.  
 > 🎯 My dream is to become a **professional software engineer** who inspires others.
@@ -39,7 +39,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,androidstudio&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,androidstudio,cpp,c,arduino,dart,flutter,assembly&perline=7" />
 </p>
 
 ---
