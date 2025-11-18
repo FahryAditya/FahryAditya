@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43u96u54j/5e2e1e0f-951e-4d1e-a8c2-0a201e102021%20(1).jpg" width="160" style="border-radius:50%; border: 4px solid #060800ff;" alt="Profile Picture"/>
+  <img src="https://uploads.onecompiler.io/43nnzwkqb/444yczurr/146179.jpg" width="160" style="border-radius:50%; border: 4px solid #060800ff;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
