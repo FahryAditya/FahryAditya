@@ -7,7 +7,8 @@
   <img src="https://uploads.onecompiler.io/43nnzwkqb/444yczurr/146179.jpg" width="160" style="border-radius:50%; border: 4px solid #060800ff;" alt="Profile Picture"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Takuma Naruto
+拓真春人 </span></h1>
 <h3 align="center">☕ Java Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner | Programmer Robotika</h3>
 
 ---
