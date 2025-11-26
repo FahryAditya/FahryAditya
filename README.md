@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43nnzwkqb/444yczurr/146179.jpg" width="160" style="border-radius:50%; border: 4px solid #060800ff;" alt="Profile Picture"/>
+  <img src="https://uploads.onecompiler.io/43k3n8v9v/445t7e97k/159520.jpg" width="160" style="border-radius:50%; border: 4px solid #060800ff;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Takuma Naruto
