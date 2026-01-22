@@ -3,22 +3,22 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Welcome%20to%20Haruxa's%20World&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Welcome%20to%20Ryu Kitasan 's%20World&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=18" />
 </p>
 
 <!-- Profile Picture with Glow Effect -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/44aqereer/WhatsApp%20Image%202026-01-16%20at%2007.37.41.jpeg" width="180" style="border-radius:50%; border: 5px solid #00CFFF; box-shadow: 0 0 30px #00CFFF;" alt="Haruxa Profile"/>
+  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="180" style="border-radius:50%; border: 5px solid #00CFFF; box-shadow: 0 0 30px #00CFFF;" alt="Ryu Kitasan Profile"/>
 </p>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Haruxa+%F0%9F%91%8B;Java+Developer+%7C+Robotics+Programmer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Ryu Kitasan+%F0%9F%91%8B;Java+Developer+%7C+Robotics+Programmer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </p>
 
 <!-- Social Badges with Animations -->
 <p align="center">
-  <a href="https://www.tiktok.com/@fahry_aditya112?is_from_webapp=1&sender_device=pc">
+  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
@@ -37,8 +37,8 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=tokyonight&hide_border=true&layout=compact" />
 
 ```yaml
-name: Haruxa
-alias: Haruxa
+name: Fahry Aditya
+alias: Ryu Kitasan
 age: 15
 education: SMK Student
 location: Indonesia 🇮🇩
@@ -224,7 +224,7 @@ graph LR
 ## 💬 Daily Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20art%20%E2%80%94%20you%20write%20logic%2C%20but%20you%20express%20your%20soul.&author=Haruxa" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20art%20%E2%80%94%20you%20write%20logic%2C%20but%20you%20express%20your%20soul.&authorRyu Kitasan" />
 </p>
 
 ---
@@ -345,8 +345,8 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <sub>Made with 💙 by Haruxa | Last Updated: January 2025</sub><br/>
-  <sub>© 2025 Fahry Aditya Setiawan. All Rights Reserved.</sub>
+  <sub>Made with 💙 by Ryu Kitasan | Last Updated: January 2026</sub><br/>
+  <sub>© 2026 Fahry Aditya Setiawan. All Rights Reserved.</sub>
 </p>
 ```
 
