@@ -1,25 +1,24 @@
-
 <!-- 🌟 Fahry Aditya Setiawan - Enhanced 2025 GitHub Profile -->
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Welcome%20to%20Ryu Kitasan 's%20World&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Welcome%20to%20Ryu%20Kitasan's%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
 </p>
 
 <!-- Profile Picture with Glow Effect -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="180" style="border-radius:50%; border: 5px solid #00CFFF; box-shadow: 0 0 30px #00CFFF;" alt="Ryu Kitasan Profile"/>
+  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Ryu Kitasan Profile"/>
 </p>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Ryu Kitasan+%F0%9F%91%8B;Java+Developer+%7C+Robotics+Programmer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ryu+Kitasan;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </p>
 
 <!-- Social Badges with Animations -->
 <p align="center">
   <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -30,14 +29,14 @@
   <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=Profile%20Views&color=00CFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 About Me
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=tokyonight&hide_border=true&layout=compact" />
 
 ```yaml
-name: Fahry Aditya
+name: Fahry Aditya Setiawan
 alias: Ryu Kitasan
 age: 15
 education: SMK Student
@@ -51,6 +50,8 @@ passion:
 dream: Professional Software Engineer
 motto: "Code is poetry written in logic"
 ```
+
+<br clear="right"/>
 
 ### 💡 What I Do
 - 🤖 **Robotics Programming** - Building intelligent automation systems
@@ -66,7 +67,7 @@ motto: "Code is poetry written in logic"
 - 📱 Flutter for Cross-Platform Development
 - 🧠 Design Patterns & Clean Code Principles
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Milestones
 
@@ -88,14 +89,14 @@ motto: "Code is poetry written in logic"
       <sub>Modern Architecture</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Responsive-Websites-00CFFF?style=for-the-badge&logo=web&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Responsive-Websites-00CFFF?style=for-the-badge&logo=html5&logoColor=white"/><br/>
       <b>UI/UX</b><br/>
       <sub>Mobile Prototypes</sub>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Arsenal
 
@@ -117,34 +118,35 @@ motto: "Code is poetry written in logic"
 ### 🔧 Hardware & Robotics
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=1a1b27&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=tokyonight&hide_border=true&background=1a1b27&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00CFFF&text_color=c9d1d9&langs_count=8" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahryAditya&repo=FahryAditya&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=c9d1d9&langs_count=8" height="180"/>
+</div>
 
 <!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=tokyo-night&bg_color=1a1b27&color=00CFFF&line=00CFFF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=tokyo-night&bg_color=0D1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
 
 <!-- Trophy Display -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📁 Project Portfolio
 
@@ -152,11 +154,11 @@ motto: "Code is poetry written in logic"
 
 | 🎯 Category | 📊 Count | 🔥 Status |
 |------------|---------|----------|
-| ☕ Java Projects | 4 | ![](https://img.shields.io/badge/Active-brightgreen) |
-| 🌐 Web Projects | 3 | ![](https://img.shields.io/badge/Active-brightgreen) |
-| 🖥️ CLI Tools | 2 | ![](https://img.shields.io/badge/Maintained-blue) |
-| 🤖 Robotics | 5 | ![](https://img.shields.io/badge/In%20Progress-yellow) |
-| 📱 Mobile Apps | 2 | ![](https://img.shields.io/badge/Planning-orange) |
+| ☕ Java Projects | 4 | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| 🌐 Web Projects | 3 | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| 🖥️ CLI Tools | 2 | ![](https://img.shields.io/badge/Maintained-blue?style=flat-square) |
+| 🤖 Robotics | 5 | ![](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| 📱 Mobile Apps | 2 | ![](https://img.shields.io/badge/Planning-orange?style=flat-square) |
 
 </div>
 
@@ -195,7 +197,7 @@ motto: "Code is poetry written in logic"
 </ul>
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 2025 Goals & Roadmap
 
@@ -219,24 +221,24 @@ graph LR
 - [ ] Master Flutter development
 - [ ] Build production-ready portfolio
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Daily Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20art%20%E2%80%94%20you%20write%20logic%2C%20but%20you%20express%20your%20soul.&authorRyu Kitasan" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎵 Coding Soundtrack
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbhfs2b/WhatsApp%20Image%202025-10-11%20at%2022.04.01%20(1).jpeg" width="450" style="border-radius:15px; border:3px solid #00CFFF; box-shadow: 0 0 20px #00CFFF;" alt="Now Playing"/>
+  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbhfs2b/WhatsApp%20Image%202025-10-11%20at%2022.04.01%20(1).jpeg" width="500" style="border-radius:15px; border:4px solid #00CFFF; box-shadow: 0 0 25px rgba(0, 207, 255, 0.6);" alt="Now Playing"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahryAditya/Properti/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="380" alt="Coding Vibe" style="border-radius:15px;"/>
+  <img src="https://raw.githubusercontent.com/FahryAditya/Properti/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="400" alt="Coding Vibe" style="border-radius:15px;"/>
 </p>
 
 ### 🎧 Current Playlist
@@ -244,41 +246,41 @@ graph LR
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="100" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,207,255,0.3);"/><br/>
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Umapyoi Densetsu</b><br/>
       <sub>Uma Musume</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="100" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,207,255,0.3);"/><br/>
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Tracen Ondo</b><br/>
       <sub>Uma Musume: Pretty Derby</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110127.jpg" width="100" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,207,255,0.3);"/><br/>
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110127.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Otsukare Summer</b><br/>
       <sub>HALCALI</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="100" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,207,255,0.3);"/><br/>
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Please Please</b><br/>
       <sub>Ayaka Osashi</sub>
     </td>
     <td align="center">
-      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="100" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,207,255,0.3);"/><br/>
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Grand Escape</b><br/>
       <sub>Radwimps</sub>
     </td>
     <td align="center">
-      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="100" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,207,255,0.3);"/><br/>
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Winning the Seoul</b><br/>
       <sub>Oguri Cap</sub>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Weekly Development Breakdown
 
@@ -292,16 +294,19 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.tiktok.com/@fahry_aditya112?is_from_webapp=1&sender_device=pc">
-    <img src="https://img.shields.io/badge/TikTok-@fahry__aditya112-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
+  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
+    <img src="https://img.shields.io/badge/TikTok-@ryu.kitasan-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
     <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/FahryAditya">
+    <img src="https://img.shields.io/badge/GitHub-@FahryAditya-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -311,7 +316,7 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/🤝_Mentorship-Welcome-yellow?style=for-the-badge"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌟 Support My Journey
 
@@ -319,7 +324,7 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
   <a href="https://github.com/FahryAditya">
     <img src="https://img.shields.io/github/followers/FahryAditya?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/FahryAditya">
+  <a href="https://github.com/FahryAditya?tab=repositories">
     <img src="https://img.shields.io/github/stars/FahryAditya?affiliations=OWNER&style=social" alt="GitHub Stars"/>
   </a>
 </p>
@@ -330,23 +335,21 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
   <i>💡 Feel free to reach out for collaboration!</i>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 </p>
 
 <p align="center">
   <sub>Made with 💙 by Ryu Kitasan | Last Updated: January 2026</sub><br/>
   <sub>© 2026 Fahry Aditya Setiawan. All Rights Reserved.</sub>
 </p>
-```
-
