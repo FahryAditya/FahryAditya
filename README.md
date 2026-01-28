@@ -7,7 +7,7 @@
 
 <!-- Profile Picture with Glow Effect -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bdeqapy/264420.png" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Ryu Kitasan Profile"/>
+  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Ryu Kitasan Profile"/>
 </p>
 
 <!-- Dynamic Typing Animation -->
