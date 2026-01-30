@@ -1,6 +1,6 @@
 <!-- 🌟 Fahry Aditya Setiawan - Epic 2026 GitHub Profile -->
 
-<!-- Animated Header with Particles -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=🚀%20RYU%20KITASAN%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Code%20Architect%20|%20Innovation%20Engineer%20|%20Tech%20Enthusiast%20⚡&descSize=22&descAlignY=55" alt="Header"/>
 </p>
@@ -10,32 +10,28 @@
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
 
-<!-- 3D Profile Picture with Glow -->
+<!-- Epic Typing Animation -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="250" style="border-radius:50%; border: 8px solid #00FFFF; box-shadow: 0 0 60px rgba(0, 255, 255, 0.9), 0 0 100px rgba(138, 43, 226, 0.5); transform: perspective(1000px) rotateY(0deg);" alt="Ryu Kitasan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=👋+Konnichiwa!+I'm+Ryu+Kitasan;☕+Java+Wizard+%7C+🤖+Robotics+Engineer;🎯+Turning+Coffee+Into+Code+Since+2020;💡+Building+Tomorrow's+Tech+Today!" alt="Typing SVG"/>
 </p>
 
-<!-- Epic Typing Animation with Multiple Lines -->
+<!-- Advanced Social Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=👋+Konnichiwa!+I'm+Ryu+Kitasan;☕+Java+Wizard+%7C+🤖+Robotics+Engineer;🎯+Turning+Coffee+Into+Code+Since+2020;💡+Building+Tomorrow's+Tech+Today!" alt="Epic Typing"/>
-</p>
-
-<!-- Advanced Social Badges with Stats -->
-<p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
+  <a href="https://www.tiktok.com/@ryu.kitasan">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
+  <a href="https://www.instagram.com/takumaharuto">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/FahryAditya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
 
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=👁️%20PROFILE%20VIEWS&color=00FFFF&style=for-the-badge&abbreviated=true" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/FahryAditya?label=👥%20FOLLOWERS&style=for-the-badge&color=blueviolet&labelColor=8A2BE2"/>
-  <img src="https://img.shields.io/github/stars/FahryAditya?label=⭐%20TOTAL%20STARS&style=for-the-badge&color=gold&labelColor=FFD700&affiliations=OWNER"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=👁️%20PROFILE%20VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/FahryAditya?label=👥%20FOLLOWERS&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/FahryAditya?label=⭐%20TOTAL%20STARS&style=for-the-badge&color=gold&affiliations=OWNER"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -140,13 +136,13 @@ const ryuKitasan = {
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/☕_Java-Master-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/☕_Java-Master-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Projects-6+-success?style=flat-square"/><br/>
 <b>🔥 Database Apps</b><br/>
 <sub>Advanced CRUD Systems</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎮_Games-Creator-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/🎮_Games-Creator-FF6B6B?style=for-the-badge"/><br/>
 <img src="https://img.shields.io/badge/Games-4+-blue?style=flat-square"/><br/>
 <b>⚡ Logic Games</b><br/>
 <sub>CLI & GUI Applications</sub>
@@ -194,32 +190,42 @@ Git & GitHub   ███████████████████░░�
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,dart,js,html,css&perline=8&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,dart,js,html,css&perline=8&theme=dark" />
+</p>
 
 ### 🎯 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,bootstrap,tailwind,express&perline=7&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,bootstrap,tailwind,express&perline=7&theme=dark" />
+</p>
 
 ### 🗄️ Databases & Storage
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=5&theme=dark" />
+</p>
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,eclipse,postman,maven&perline=8&theme=dark" /><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,eclipse,postman,maven&perline=8&theme=dark" />
+</p>
+<p>
 <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,figma,photoshop&perline=6&theme=dark" />
+</p>
 
 ### ⚡ Hardware & Embedded Systems
+<p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2&theme=dark" />
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sensors-FF6B35?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Motors-00979D?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>
 
 ### 🌐 Cloud & DevOps
+<p>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
 
 </div>
 
@@ -229,30 +235,22 @@ Git & GitHub   ███████████████████░░�
 
 <div align="center">
 
-<!-- Top Section: Stats & Streak -->
+<!-- Stats & Streak -->
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=15" height="195"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&border_radius=15" height="195"/>
+</p>
 
-<!-- Middle Section: Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10&border_radius=15&hide=html,css" height="195"/>
+<!-- Top Languages -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10&border_radius=15&hide=html,css" width="495"/>
+</p>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=react-dark&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FF6B6B&area=true&hide_border=true&custom_title=🔥%20Epic%20Contribution%20Timeline&radius=16" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=react-dark&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FF6B6B&area=true&hide_border=true&custom_title=🔥%20Epic%20Contribution%20Timeline" width="100%"/>
 
 <!-- Trophy Collection -->
-<img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers" width="100%"/>
-
-<!-- Detailed Stats Cards -->
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&layout=compact&border_radius=15" height="200"/>
-</td>
-<td align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=FahryAditya&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=15" height="200"/>
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 ### 📈 Productivity Metrics
 
@@ -373,55 +371,11 @@ public class EpicAPI {
 </tr>
 </table>
 
-<details>
-<summary><b>🔥 More Epic Projects (Click to Expand)</b></summary>
-<br/>
-
-### 🎯 Additional Projects
-
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 📊 **Inventory Management System** | Full-featured stock management | Java, MySQL, Swing | ✅ Complete |
-| 🏪 **E-Commerce Platform** | Online shopping system | React, Node.js, MongoDB | 🚧 70% |
-| 🎵 **Music Player App** | Android music player | Kotlin, Android SDK | 🚧 60% |
-| 🔐 **Password Manager** | Secure credential storage | Python, Encryption | ✅ Complete |
-| 📱 **Weather App** | Real-time weather data | Flutter, OpenWeather API | 🚧 50% |
-| 🤖 **Telegram Bot** | Automation bot | Python, Telegram API | ✅ Complete |
-| 🏋️ **Fitness Tracker** | Workout logging app | Flutter, Firebase | 🚧 40% |
-| 🎲 **Discord Bot** | Gaming community bot | Discord.js, Node.js | ✅ Complete |
-
-</details>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 2026 EPIC ROADMAP
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00FFFF','primaryTextColor':'#fff','primaryBorderColor':'#00FFFF','lineColor':'#8A2BE2','secondaryColor':'#FF6B6B','tertiaryColor':'#FFD700'}}}%%
-graph TB
-    A[🎯 Q1 2026] -->|Master| B[🍃 Spring Boot Mastery]
-    A -->|Deploy| C[☁️ Cloud Platforms]
-    A -->|Build| D[🌐 Full-Stack App]
-    
-    E[🔥 Q2 2026] -->|Create| F[📱 Mobile App]
-    E -->|Learn| G[🐳 Docker & K8s]
-    E -->|Contribute| H[💻 Open Source]
-    
-    I[⚡ Q3 2026] -->|Study| J[🧠 AI/ML Basics]
-    I -->|Build| K[🤖 Advanced Robot]
-    I -->|Improve| L[📊 System Design]
-    
-    M[🚀 Q4 2026] -->|Launch| N[💼 Professional Portfolio]
-    M -->|Apply| O[🏢 Internship Programs]
-    M -->|Achieve| P[🏆 Certifications]
-    
-    style A fill:#00FFFF,stroke:#00FFFF,color:#000
-    style E fill:#FF6B6B,stroke:#FF6B6B,color:#000
-    style I fill:#8A2BE2,stroke:#8A2BE2,color:#fff
-    style M fill:#FFD700,stroke:#FFD700,color:#000
-```
 
 ### 📋 Current Mission Status
 
@@ -488,7 +442,7 @@ graph TB
 
 ### 💎 Daily Motivation
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 ### 🎓 Coding Philosophy
 
@@ -511,124 +465,6 @@ graph TB
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎵 EPIC CODING SOUNDTRACK
-
-<div align="center">
-
-### 🎧 Now Playing
-
-<p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbhfs2b/WhatsApp%20Image%202025-10-11%20at%2022.04.01%20(1).jpeg" width="550" style="border-radius:20px; border:5px solid #00FFFF; box-shadow: 0 0 40px rgba(0, 255, 255, 0.8), 0 0 60px rgba(138, 43, 226, 0.5);" alt="Now Playing"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/FahryAditya/Properti/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="500" alt="Coding Vibe" style="border-radius:20px;"/>
-
-### 🎶 Ultimate Coding Playlist
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🏇 Umapyoi Densetsu</b><br/>
-<sub>Uma Musume</sub><br/>
-<img src="https://img.shields.io/badge/Genre-J--Pop-FF1493?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🎊 Tracen Ondo</b><br/>
-<sub>Uma Musume</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Anime-00FFFF?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110127.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>☀️ Otsukare Summer</b><br/>
-<sub>HALCALI</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Hip--Hop-8A2BE2?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🎵 Please Please</b><br/>
-<sub>Ayaka Osashi</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Pop-FFD700?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🌧️ Grand Escape</b><br/>
-<sub>Radwimps</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Rock-FF6B6B?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🏆 Winning the Seoul</b><br/>
-<sub>Oguri Cap</sub><br/>
-<img src="https://img.shields.io/badge/Genre-J--Rock-9B59B6?style=flat-square"/>
-</td>
-<td align="center" colspan="4">
-<br/>
-<h3>🎼 Mood-Based Playlists</h3>
-<img src="https://img.shields.io/badge/🔥_Energetic-Red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/😌_Chill-Blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_Focus-Green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌙_Night_Code-Purple?style=for-the-badge"/>
-<br/><br/>
-<sub>🎧 Music fuels my creativity | 🎵 Currently on repeat</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 WEEKLY DEVELOPMENT INSIGHTS
-
-<div align="center">
-
-### ⏱️ Coding Activity Breakdown
-
-<!--START_SECTION:waka-->
-```text
-💻 This Week's Time Distribution
-
-Java             14 hrs 25 mins  ███████████████░░░░░░  52.3%  🔥
-JavaScript        5 hrs 48 mins  █████░░░░░░░░░░░░░░░░  21.0%  ⚡
-HTML/CSS          3 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░  11.6%  🎨
-Arduino/C++       2 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░   9.4%  🤖
-Python            1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░░   3.9%  🐍
-Other               28 mins     ░░░░░░░░░░░░░░░░░░░░░   1.8%  📝
-
-📅 Total Coding Time: 27 hrs 33 mins
-🔥 Longest Streak: 47 days
-⭐ Most Productive Day: Thursday
-🎯 Average Daily Coding: 3.9 hours
-```
-<!--END_SECTION:waka-->
-
-### 📈 Productivity Stats
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔥_Commits_This_Week-47-orange?style=for-the-badge"/>
-<br/><sub>+23% from last week</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/⚡_PRs_Merged-12-success?style=for-the-badge"/>
-<br/><sub>Contributing actively</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎯_Issues_Closed-8-blue?style=for-the-badge"/>
-<br/><sub>Problem solver mode</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🤝 LET'S BUILD SOMETHING EPIC TOGETHER!
 
 <div align="center">
@@ -636,18 +472,15 @@ Other               28 mins     ░░░░░░░░░░░░░░░░
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
-    <img src="https://img.shields.io/badge/TikTok-@ryu.kitasan-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
+  <a href="https://www.tiktok.com/@ryu.kitasan">
+    <img src="https://img.shields.io/badge/TikTok-@ryu.kitasan-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
-    <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
+  <a href="https://www.instagram.com/takumaharuto">
+    <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/FahryAditya">
-    <img src="https://img.shields.io/badge/GitHub-@FahryAditya-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/GitHub-@FahryAditya-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-
-
 </p>
 
 ### 💼 What I'm Looking For
@@ -693,21 +526,14 @@ const contactInfo = {
     responseTime: "< 24 hours ⚡",
     languages: ["Indonesian 🇮🇩", "English 🇺🇸", "日本語 🇯🇵 (Learning)"]
 };
-
-// Feel free to reach out for:
-// - Project collaborations 🤝
-// - Technical discussions 💡
-// - Code reviews 🔍
-// - Robotics enthusiasts 🤖
-// - Anime & coding talks 🎌
 ```
 
 ### 🎯 Current Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💼_Status-Available_for_Projects-success?style=for-the-badge&labelColor=00FF00"/>
-  <img src="https://img.shields.io/badge/📧_Response-Within_24h-blue?style=for-the-badge&labelColor=0066FF"/>
-  <img src="https://img.shields.io/badge/🤝_Collaboration-Always_Open-orange?style=for-the-badge&labelColor=FF6600"/>
+  <img src="https://img.shields.io/badge/💼_Status-Available_for_Projects-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧_Response-Within_24h-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝_Collaboration-Always_Open-orange?style=for-the-badge"/>
 </p>
 
 </div>
@@ -752,14 +578,6 @@ const contactInfo = {
 </tr>
 </table>
 
-### 🎁 Special Thanks To
-
-<p>
-  <img src="https://img.shields.io/badge/Thanks_to-All_My_Supporters-FF69B4?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-</p>
-
-<sub>🙏 Every star, fork, and contribution means the world to me!</sub>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -795,17 +613,17 @@ const funFacts = {
 
 ### 🎲 Random Dev Humor
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&borderColor=00FFFF" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 
 ### 🏆 Badges Collection
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Enthusiast-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Enthusiast-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Craftsman-00FFFF?style=flat-square&logo=codacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot-Builder-9B59B6?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Problem-Solver-FF6B6B?style=flat-square&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coffee-Addict-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Night-Owl-1F1F1F?style=flat-square&logo=moon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Night-Owl-1F1F1F?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open-Source-FFD700?style=flat-square&logo=open-source-initiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Always-8A2BE2?style=flat-square&logo=google-scholar&logoColor=white"/>
 </p>
@@ -814,9 +632,13 @@ const funFacts = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Epic Snake Animation -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -853,20 +675,12 @@ const funFacts = {
   
 </div>
 
-<!-- Visitor Counter Animation -->
-<p align="center">
-  <img src="https://count.getloli.com/get/@FahryAditya?theme=rule34" alt="Visitor Count"/>
-</p>
-
-<!-- Final Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ---
 
 <div align="center">
   
 ### 💫 "Code is Poetry, Execution is Art" 💫
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Have+an+epic+day!+%F0%9F%9A%80;Don't+forget+to+star+%E2%AD%90+if+you+like+my+work!;Open+for+collaboration+and+opportunities!+%F0%9F%A4%9D;Let's+connect+and+build+something+amazing!+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Have+an+epic+day!+🚀;Don't+forget+to+star+⭐+if+you+like+my+work!;Open+for+collaboration+and+opportunities!+🤝;Let's+connect+and+build+something+amazing!+🌟" />
 
 </div>
