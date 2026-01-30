@@ -8,9 +8,15 @@
 <!-- Profile Section with Coding Animation -->
 <div align="center">
   <img src="https://uploads.onecompiler.io/43k3cj6jv/44aqereer/WhatsApp%20Image%202026-01-16%20at%2007.37.41.jpeg" width="180" style="border-radius:50%; border: 5px solid #00CFFF; box-shadow: 0 0 30px rgba(0, 207, 255, 0.7);" alt="Profile Picture"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Haruxa;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ryu+Kitasan;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+</div>
+
+<br/>
 
 <!-- Social Badges -->
 <div align="center">
@@ -25,6 +31,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=Profile%20Views&color=00CFFF&style=for-the-badge" alt="Profile Views"/>
 </div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
