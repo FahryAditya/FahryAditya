@@ -13,14 +13,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ryu+Kitasan;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Haruxa;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </div>
 
 <br/>
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
+  <a href="https://www.tiktok.com/@kitaxan">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
@@ -46,7 +46,7 @@
     
 ```yaml
 name: Fahry Aditya Setiawan
-alias: Ryu Kitasan
+alias: Haruxa
 age: 15
 education: SMK Student
 location: Indonesia 🇮🇩
@@ -422,7 +422,7 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <sub>Made with 💙 by Ryu Kitasan | Last Updated: January 2026</sub><br/>
+  <sub>Made with 💙 by Haruxa| Last Updated: January 2026</sub><br/>
   <sub>© 2026 Fahry Aditya Setiawan. All Rights Reserved.</sub>
 </div>
 
