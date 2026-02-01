@@ -45,9 +45,9 @@
   <div align="left">
     
 ```yaml
-name: Fahry Aditya Setiawan
+name: Fads
 alias: Haruxa
-age: 15
+age: 17
 education: SMK Student
 location: Indonesia 🇮🇩
 role: Programmer Robotika | Java Developer
