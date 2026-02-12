@@ -1,179 +1,308 @@
-<!-- 🌟 Fahry Aditya Setiawan - GitHub Profile -->
+<!-- 🌟 Fahry Aditya Setiawan - Enhanced 2025 GitHub Profile -->
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=🚀%20RYU%20KITASAN%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Code%20Architect%20|%20Innovation%20Engineer%20|%20Tech%20Enthusiast%20⚡&descSize=22&descAlignY=55" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Welcome%20to%20Ryu%20Kitasan's%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
 </p>
 
-<!-- Profile Picture -->
+<!-- Profile Picture with Glow Effect -->
 <p align="center">
-  <img src="https://github.com/FahryAditya.png" width="200" style="border-radius:50%;" alt="Ryu Kitasan"/>
+  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Ryu Kitasan Profile"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hello!+I'm+Ryu+Kitasan;☕+Java+Developer+%7C+🤖+Robotics+Engineer;🎯+Building+Tomorrow's+Tech+Today!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ryu+Kitasan;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </p>
 
-<!-- Social Badges -->
+<!-- Social Badges with Animations -->
 <p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan">
+  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/takumaharuto">
+  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/FahryAditya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=Profile%20Views&color=00CFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/FahryAditya?label=Followers&style=flat-square&color=blueviolet"/>
-  <img src="https://img.shields.io/github/stars/FahryAditya?label=Stars&style=flat-square&color=gold&affiliations=OWNER"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🎯 About Me
 
-## 👨‍💻 About Me
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=tokyonight&hide_border=true&layout=compact" />
 
 ```yaml
-Name: Fahry Aditya Setiawan
-Alias: Ryu Kitasan 🐎
-Age: 15 Years Old
-Status: SMK Student 📚
-Location: Indonesia 🇮🇩
-Timezone: UTC+8 (WITA)
-
-Role:
-  - Robotics Programmer 🤖
-  - Java Backend Developer ☕
-  - Clean Code Enthusiast 🏗️
-
-Current Focus:
-  - Learning Spring Boot 🍃
-  - Building Full-Stack Projects 🌐
-  - Exploring Cloud Technologies ☁️
+name: Fahry Aditya Setiawan
+alias: Ryu Kitasan
+age: 15
+education: SMK Student
+location: Indonesia 🇮🇩
+role: Programmer Robotika | Java Developer
+passion: 
+  - Coding & Innovation
+  - Robotics & Automation
+  - Clean Code Architecture
+  - UI/UX Design
+dream: Professional Software Engineer
+motto: "Code is poetry written in logic"
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Stack
+### 💡 What I Do
+- 🤖 **Robotics Programming** - Building intelligent automation systems
+- ☕ **Java Development** - Creating robust backend applications
+- 🎨 **UI/UX Design** - Crafting beautiful user experiences
+- 🧩 **Problem Solving** - Turning complex challenges into elegant solutions
+- 🌐 **Full Stack** - Exploring modern web technologies
 
-**Languages:**
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,dart,js,html,css&perline=8&theme=dark" />
+### 🌱 Currently Learning
+- 🍃 Spring Boot & Microservices Architecture
+- 🗄️ MySQL Database Optimization
+- 🔌 RESTful API Design & Integration
+- 📱 Flutter for Cross-Platform Development
+- 🧠 Design Patterns & Clean Code Principles
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements & Milestones
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Java-Applications-007396?style=for-the-badge&logo=java&logoColor=white"/><br/>
+      <b>4+ Projects</b><br/>
+      <sub>Database Integrated Apps</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Mini-Games-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white"/><br/>
+      <b>Logic Games</b><br/>
+      <sub>CLI Problem Solving Tools</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Spring-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br/>
+      <b>Exploring</b><br/>
+      <sub>Modern Architecture</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Responsive-Websites-00CFFF?style=for-the-badge&logo=html5&logoColor=white"/><br/>
+      <b>UI/UX</b><br/>
+      <sub>Mobile Prototypes</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,dart,flutter,python&theme=dark" />
 </p>
 
-**Frameworks & Libraries:**
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,tailwind,bootstrap&perline=6&theme=dark" />
+### 🌐 Web Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind&theme=dark" />
 </p>
 
-**Databases:**
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&perline=4&theme=dark" />
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode,androidstudio&theme=dark" />
 </p>
 
-**Tools & Platforms:**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,linux,figma,postman&perline=8&theme=dark" />
+### 🔧 Hardware & Robotics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
-**Hardware:**
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2&theme=dark" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=c9d1d9&langs_count=8" height="180"/>
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=tokyo-night&bg_color=0D1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+<!-- Trophy Display -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📁 Project Portfolio
+
+<div align="center">
+
+| 🎯 Category | 📊 Count | 🔥 Status |
+|------------|---------|----------|
+| ☕ Java Projects | 4 | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| 🌐 Web Projects | 3 | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| 🖥️ CLI Tools | 2 | ![](https://img.shields.io/badge/Maintained-blue?style=flat-square) |
+| 🤖 Robotics | 5 | ![](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| 📱 Mobile Apps | 2 | ![](https://img.shields.io/badge/Planning-orange?style=flat-square) |
+
+</div>
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>🎮 Java Game Engine</b> - Interactive CLI Game Framework</summary>
+<br/>
+<ul>
+  <li>🎯 Turn-based game logic with OOP principles</li>
+  <li>💾 Save/Load system with serialization</li>
+  <li>🎨 ASCII art rendering engine</li>
+  <li>🔧 Tech: Java, File I/O, Data Structures</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🌐 Personal Portfolio Website</b> - Modern Responsive Design</summary>
+<br/>
+<ul>
+  <li>⚡ Fast loading with optimized assets</li>
+  <li>📱 Mobile-first responsive design</li>
+  <li>🎨 Dark/Light mode toggle</li>
+  <li>🔧 Tech: HTML, CSS, JavaScript, Tailwind</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🤖 Arduino Line Follower</b> - Autonomous Robot</summary>
+<br/>
+<ul>
+  <li>🔬 PID control algorithm implementation</li>
+  <li>📡 IR sensor array integration</li>
+  <li>⚙️ Motor speed optimization</li>
+  <li>🔧 Tech: Arduino, C++, Electronics</li>
+</ul>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 2025 Goals & Roadmap
+
+```mermaid
+graph LR
+    A[Q1 2025] -->|Master| B[Spring Boot]
+    A -->|Learn| C[Docker]
+    D[Q2 2025] -->|Build| E[Full Stack App]
+    D -->|Contribute| F[Open Source]
+    G[Q3 2025] -->|Develop| H[Mobile App]
+    G -->|Study| I[Cloud Services]
+    J[Q4 2025] -->|Create| K[Portfolio]
+    J -->|Apply| L[Internship]
+```
+
+### 📋 Current Tasks
+- [x] Complete Spring Boot basics
+- [x] Build REST API with authentication
+- [ ] Deploy app to cloud platform
+- [ ] Contribute to 3 open-source projects
+- [ ] Master Flutter development
+- [ ] Build production-ready portfolio
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💬 Daily Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎵 Coding Soundtrack
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" />
+  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbhfs2b/WhatsApp%20Image%202025-10-11%20at%2022.04.01%20(1).jpeg" width="500" style="border-radius:15px; border:4px solid #00CFFF; box-shadow: 0 0 25px rgba(0, 207, 255, 0.6);" alt="Now Playing"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8&hide=html,css" />
+  <img src="https://raw.githubusercontent.com/FahryAditya/Properti/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="400" alt="Coding Vibe" style="border-radius:15px;"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=react-dark&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FF6B6B&area=true&hide_border=true" width="100%"/>
-</p>
+### 🎧 Current Playlist
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="120" style="border-radius:12px;"/><br/>
+      <b>🎵 Umapyoi Densetsu</b><br/>
+      <sub>Uma Musume</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="120" style="border-radius:12px;"/><br/>
+      <b>🎵 Tracen Ondo</b><br/>
+      <sub>Uma Musume: Pretty Derby</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110127.jpg" width="120" style="border-radius:12px;"/><br/>
+      <b>🎵 Otsukare Summer</b><br/>
+      <sub>HALCALI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="120" style="border-radius:12px;"/><br/>
+      <b>🎵 Please Please</b><br/>
+      <sub>Ayaka Osashi</sub>
+    </td>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="120" style="border-radius:12px;"/><br/>
+      <b>🎵 Grand Escape</b><br/>
+      <sub>Radwimps</sub>
+    </td>
+    <td align="center">
+      <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="120" style="border-radius:12px;"/><br/>
+      <b>🎵 Winning the Seoul</b><br/>
+      <sub>Oguri Cap</sub>
+    </td>
+  </tr>
+</table>
 
-## 🏆 Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" width="100%"/>
-</p>
+## 📊 Weekly Development Breakdown
 
----
-
-## 🚀 Featured Projects
-
-### ☕ Java Database Applications
-- **Tech:** Java, MySQL, JDBC, Swing
-- **Count:** 6+ Projects
-- **Highlights:** Advanced CRUD systems with clean architecture
-
-### 🌐 Web Development
-- **Tech:** React, Node.js, Tailwind CSS
-- **Count:** 5+ Projects
-- **Highlights:** Full-stack applications with modern UI/UX
-
-### 🤖 Robotics Projects
-- **Tech:** Arduino, C++, Sensors
-- **Count:** 8+ Projects
-- **Highlights:** Competition-ready autonomous robots
-
-### 🎮 Game Development
-- **Tech:** Java, C++
-- **Count:** 4+ Projects
-- **Highlights:** 2D games with custom engines
-
----
-
-## 📈 Coding Activity
-
+<!--START_SECTION:waka-->
 ```text
-Java           ████████████████████░░  90%  🔥 Expert
-Robotics       █████████████████░░░░░  85%  🤖 Advanced
-Spring Boot    ██████████████░░░░░░░░  70%  🍃 Intermediate
-Web Dev        ███████████████░░░░░░░  75%  🌐 Skilled
-Flutter        ████████████░░░░░░░░░░  60%  📱 Growing
-MySQL          ████████████████░░░░░░  80%  🗄️ Proficient
+Java         12 hrs 30 mins  ████████████░░░░░░░░░  48.2%
+HTML/CSS      5 hrs 15 mins  ████░░░░░░░░░░░░░░░░░  20.3%
+JavaScript    4 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░  16.8%
+Arduino       2 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░  10.6%
+Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
+<!--END_SECTION:waka-->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 2026 Roadmap
-
-**Q1:** Spring Boot Mastery | Cloud Deployment  
-**Q2:** Mobile App Development | Docker & K8s  
-**Q3:** AI/ML Basics | Advanced Robotics  
-**Q4:** Professional Portfolio | Certifications
-
----
-
-## 💬 Quote
+## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan">
+  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
     <img src="https://img.shields.io/badge/TikTok-@ryu.kitasan-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/takumaharuto">
+  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
     <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/FahryAditya">
@@ -182,27 +311,45 @@ MySQL          ████████████████░░░░░�
 </p>
 
 <p align="center">
-  <b>💼 Open for collaboration and opportunities!</b><br/>
-  📧 Response Time: < 24 hours<br/>
-  🌍 Location: Indonesia | 🕐 UTC+8
+  <img src="https://img.shields.io/badge/💼_Open_for-Collaboration-00CFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧_Email-Available-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝_Mentorship-Welcome-yellow?style=for-the-badge"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⭐ Support
-
-<p align="center">
-  If you like my work, consider giving a ⭐ to my repositories!<br/>
-  Follow me for more amazing projects 🚀
-</p>
-
----
+## 🌟 Support My Journey
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
+  <a href="https://github.com/FahryAditya">
+    <img src="https://img.shields.io/github/followers/FahryAditya?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/FahryAditya?tab=repositories">
+    <img src="https://img.shields.io/github/stars/FahryAditya?affiliations=OWNER&style=social" alt="GitHub Stars"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>Made with 💙 and ☕ by Ryu Kitasan</sub><br/>
-  <sub>© 2026 | Indonesia 🇮🇩</sub>
+  <i>⭐ Star my repositories if you find them useful!</i><br/>
+  <i>🔔 Follow for updates on new projects!</i><br/>
+  <i>💡 Feel free to reach out for collaboration!</i>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+</p>
+
+<p align="center">
+  <sub>Made with 💙 by Ryu Kitasan | Last Updated: January 2026</sub><br/>
+  <sub>© 2026 Fahry Aditya Setiawan. All Rights Reserved.</sub>
 </p>
