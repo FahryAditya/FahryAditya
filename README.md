@@ -2,7 +2,7 @@
 
 <!-- Animated Header with Particles -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=🚀%Haruxa%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Code%20Architect%20|%20Innovation%20Engineer%20|%20Tech%20Enthusiast%20⚡&descSize=22&descAlignY=55" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=🚀%20Haruxa%20🚀&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20Code%20Architect%20|%20Innovation%20Engineer%20|%20Tech%20Enthusiast%20⚡&descSize=22&descAlignY=55" alt="Header"/>
 </p>
 
 <!-- Epic Profile Banner -->
@@ -211,269 +211,285 @@ Git & GitHub   ███████████████████░░�
 <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,figma,photoshop&perline=6&theme=dark" />
 
 ### ⚡ Hardware & Embedded Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2&theme=dark" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sensors-FF6B35?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Motors-00979D?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=internet-of-things&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensors-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Motors-8A2BE2?style=for-the-badge&logo=electric-motor&logoColor=white"/>
+</p>
 
-### 🌐 Cloud & DevOps
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 EPIC GITHUB ANALYTICS
-
-<div align="center">
-
-<!-- Top Section: Stats & Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=15" height="195"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&border_radius=15" height="195"/>
-
-<!-- Middle Section: Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10&border_radius=15&hide=html,css" height="195"/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=react-dark&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FF6B6B&area=true&hide_border=true&custom_title=🔥%20Epic%20Contribution%20Timeline&radius=16" width="100%"/>
-
-<!-- Trophy Collection -->
-<img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers" width="100%"/>
-
-<!-- Detailed Stats Cards -->
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&layout=compact&border_radius=15" height="200"/>
-</td>
-<td align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=FahryAditya&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=15" height="200"/>
-</td>
-</tr>
-</table>
-
-### 📈 Productivity Metrics
-
-```text
-🌅 Morning           ███████░░░░░░░░░░░░░  35%  |  Best for Planning
-☀️  Daytime           ████████████████░░░░  75%  |  Peak Performance  
-🌆 Evening           ██████████████████░░  85%  |  Maximum Focus 
-🌙 Night             ████████████░░░░░░░░  60%  |  Creative Coding
-```
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+</p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 EPIC PROJECT PORTFOLIO
+## 📊 ADVANCED GITHUB STATISTICS
 
 <div align="center">
 
-### 📁 Project Dashboard
-
-| 🎯 Category | 📊 Projects | 🔥 Status | 🌟 Stars | 🔧 Tech Stack |
-|------------|------------|----------|----------|---------------|
-| ☕ Java Applications | 6 | ![](https://img.shields.io/badge/🟢-Active-brightgreen) | ⭐⭐⭐⭐ | Java, MySQL, Swing |
-| 🌐 Web Development | 5 | ![](https://img.shields.io/badge/🟢-Active-brightgreen) | ⭐⭐⭐⭐⭐ | React, Node.js, Tailwind |
-| 🤖 Robotics Projects | 8 | ![](https://img.shields.io/badge/🟡-In%20Progress-yellow) | ⭐⭐⭐⭐ | Arduino, C++, Sensors |
-| 🖥️ CLI Tools | 4 | ![](https://img.shields.io/badge/🔵-Maintained-blue) | ⭐⭐⭐ | Java, Python |
-| 📱 Mobile Apps | 3 | ![](https://img.shields.io/badge/🟠-Planning-orange) | ⭐⭐⭐⭐ | Flutter, Dart |
-| 🎮 Game Development | 4 | ![](https://img.shields.io/badge/🔵-Maintained-blue) | ⭐⭐⭐⭐⭐ | Java, C++ |
-
-</div>
-
-### 🌟 Featured Epic Projects
+### 📈 Comprehensive Activity Overview
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎮 Java Game Engine Framework
-```java
-// Epic 2D Game Engine with Physics
-public class GameEngine {
-    - 🎯 Advanced OOP Architecture
-    - 💾 Persistent Save System
-    - 🎨 Custom ASCII Renderer
-    - ⚡ Event-Driven Design
-    - 🔊 Sound System Integration
-    - 🏆 Achievement System
-}
-```
-**Tech:** Java, JDBC, Serialization, Multithreading
-<br/>**Status:** ✅ Complete | ⭐ 4.8/5
-<br/>**Highlights:** Clean code, extensible, well-documented
+<img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%">
 
-#### 🌐 Full-Stack Portfolio Platform
-```javascript
-// Modern Responsive Web Application
-const portfolio = {
-    frontend: "React + Tailwind CSS",
-    backend: "Node.js + Express",
-    database: "MongoDB",
-    features: [
-        "⚡ Blazing Fast Performance",
-        "🎨 Dark/Light Theme Toggle",
-        "📱 100% Mobile Responsive",
-        "🔒 Secure Authentication",
-        "📧 Contact Form with Email",
-        "🌐 Multi-language Support"
-    ]
-}
-```
-**Status:** 🚀 In Development | ⭐ 5.0/5
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤖 Autonomous Line Follower Robot
-```cpp
-// PID-Controlled Arduino Robot
-class LineFollower {
-    - 🧠 Smart PID Algorithm
-    - 📡 8-Sensor IR Array
-    - ⚙️ Dual Motor Control
-    - 📊 Real-time Telemetry
-    - 🏁 Competition Ready
-    - 🔋 Power Management
-}
-```
-**Tech:** Arduino, C++, PID Control, Electronics
-<br/>**Status:** 🏆 Competition Winner
-<br/>**Speed:** 1.2m/s | Accuracy: 98%
-
-</td>
-<td width="50%">
-
-#### 🍃 Spring Boot REST API
-```java
-// Microservice Architecture
-@RestController
-public class EpicAPI {
-    - 🔐 JWT Authentication
-    - 📝 Complete CRUD Operations
-    - 🗄️ JPA/Hibernate Integration
-    - 📚 Swagger Documentation
-    - ✅ Unit Testing (JUnit)
-    - 🐳 Docker Containerized
-}
-```
-**Tech:** Spring Boot, MySQL, JWT, Docker
-<br/>**Status:** 🔄 In Development | Coverage: 85%
-<br/>**Endpoints:** 25+ RESTful APIs
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8A8A8A&sideLabels=8A8A8A&border_radius=10" alt="GitHub Streak" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🔥 More Epic Projects (Click to Expand)</b></summary>
-<br/>
+### 🎯 Language Distribution & Activity
 
-### 🎯 Additional Projects
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 📊 **Inventory Management System** | Full-featured stock management | Java, MySQL, Swing | ✅ Complete |
-| 🏪 **E-Commerce Platform** | Online shopping system | React, Node.js, MongoDB | 🚧 70% |
-| 🎵 **Music Player App** | Android music player | Kotlin, Android SDK | 🚧 60% |
-| 🔐 **Password Manager** | Secure credential storage | Python, Encryption | ✅ Complete |
-| 📱 **Weather App** | Real-time weather data | Flutter, OpenWeather API | 🚧 50% |
-| 🤖 **Telegram Bot** | Automation bot | Python, Telegram API | ✅ Complete |
-| 🏋️ **Fitness Tracker** | Workout logging app | Flutter, Firebase | 🚧 40% |
-| 🎲 **Discord Bot** | Gaming community bot | Discord.js, Node.js | ✅ Complete |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=10&langs_count=8&hide=html,css" alt="Top Languages" width="100%"/>
 
-</details>
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FahryAditya&theme=radical&utcOffset=8" alt="Productive Time" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### 🏆 Trophy Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" width="100%"/>
+
+### 📊 Detailed Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF" width="100%"/>
+
+### 💻 Most Used Technologies
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&layout=compact&border_radius=10" alt="WakaTime Stats" width="60%"/>
+
+### 📌 Code Metrics
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Total_Commits-500+-00FFFF?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<sub>Consistency is key</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Repositories-15+-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<sub>Quality projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PRs_Merged-25+-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<sub>Collaboration wins</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Issues_Solved-40+-FFD700?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<sub>Problem solver</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 2026 EPIC ROADMAP
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
+
+### 💎 Project Showcase
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java Database Applications
+
+[![Database App](https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FahryAditya)
+
+**🎯 Hospital Management System**
+- Full-featured CRUD operations
+- MySQL database integration
+- Swing GUI with modern design
+- Patient & doctor management
+- Appointment scheduling system
+
+**💡 Tech Stack:**
+`Java` `MySQL` `Swing` `JDBC` `MVC Pattern`
+
+**🌟 Highlights:**
+- Clean architecture implementation
+- RESTful API design
+- Comprehensive error handling
+- Unit testing coverage
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Robotics Projects
+
+[![Robotics](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/FahryAditya)
+
+**⚙️ Line Following Robot**
+- PID control algorithm
+- Sensor calibration system
+- Speed optimization
+- Autonomous navigation
+
+**💡 Tech Stack:**
+`Arduino` `C++` `IR Sensors` `Motors` `PID`
+
+**🌟 Highlights:**
+- Real-time sensor processing
+- Adaptive control system
+- Competition-ready design
+- Modular architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍃 Spring Boot Projects
+
+[![Spring Boot](https://img.shields.io/badge/View_Project-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/FahryAditya)
+
+**🌐 E-Commerce REST API**
+- RESTful API architecture
+- JWT authentication
+- MySQL database
+- Product & order management
+- User authentication system
+
+**💡 Tech Stack:**
+`Spring Boot` `JPA` `MySQL` `JWT` `Maven`
+
+**🌟 Highlights:**
+- Microservices architecture
+- Security best practices
+- API documentation with Swagger
+- Docker containerization
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+
+[![Games](https://img.shields.io/badge/View_Project-9B59B6?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/FahryAditya)
+
+**🎯 Strategy Games Collection**
+- CLI-based games
+- Advanced AI opponents
+- Score tracking system
+- Multiple difficulty levels
+
+**💡 Tech Stack:**
+`Java` `OOP` `Algorithms` `Data Structures`
+
+**🌟 Highlights:**
+- Object-oriented design
+- Efficient algorithms
+- User-friendly interface
+- Extensible architecture
+
+</td>
+</tr>
+</table>
+
+### 📂 More Projects
+
+<p>
+  <a href="https://github.com/FahryAditya?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌱 CURRENT LEARNING JOURNEY
+
+<div align="center">
+
+### 📚 What I'm Learning Right Now
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br/>
+<b>🍃 Spring Ecosystem</b><br/>
+<sub>Microservices & Cloud</sub><br/>
+<img src="https://progress-bar.dev/70/?title=Progress&width=200&color=6DB33F"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/>
+<b>🐳 Containerization</b><br/>
+<sub>DevOps & Deployment</sub><br/>
+<img src="https://progress-bar.dev/55/?title=Progress&width=200&color=2496ED"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
+<b>☁️ Cloud Computing</b><br/>
+<sub>AWS Services & Architecture</sub><br/>
+<img src="https://progress-bar.dev/40/?title=Progress&width=200&color=FF9900"/>
+</td>
+</tr>
+</table>
+
+### 🎯 2026 Learning Roadmap
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00FFFF','primaryTextColor':'#fff','primaryBorderColor':'#00FFFF','lineColor':'#8A2BE2','secondaryColor':'#FF6B6B','tertiaryColor':'#FFD700'}}}%%
-graph TB
-    A[🎯 Q1 2026] -->|Master| B[🍃 Spring Boot Mastery]
-    A -->|Deploy| C[☁️ Cloud Platforms]
-    A -->|Build| D[🌐 Full-Stack App]
+graph LR
+    A[✅ Java Mastery] --> B[🔄 Spring Boot]
+    B --> C[📚 Microservices]
+    C --> D[🎯 Cloud Computing]
+    D --> E[🚀 DevOps]
+    E --> F[💡 System Design]
     
-    E[🔥 Q2 2026] -->|Create| F[📱 Mobile App]
-    E -->|Learn| G[🐳 Docker & K8s]
-    E -->|Contribute| H[💻 Open Source]
-    
-    I[⚡ Q3 2026] -->|Study| J[🧠 AI/ML Basics]
-    I -->|Build| K[🤖 Advanced Robot]
-    I -->|Improve| L[📊 System Design]
-    
-    M[🚀 Q4 2026] -->|Launch| N[💼 Professional Portfolio]
-    M -->|Apply| O[🏢 Internship Programs]
-    M -->|Achieve| P[🏆 Certifications]
-    
-    style A fill:#00FFFF,stroke:#00FFFF,color:#000
-    style E fill:#FF6B6B,stroke:#FF6B6B,color:#000
-    style I fill:#8A2BE2,stroke:#8A2BE2,color:#fff
-    style M fill:#FFD700,stroke:#FFD700,color:#000
+    style A fill:#00FF00
+    style B fill:#FFFF00
+    style C fill:#FFA500
+    style D fill:#FF6B6B
+    style E fill:#8A2BE2
+    style F fill:#00FFFF
 ```
 
-### 📋 Current Mission Status
+### 📖 Learning Resources
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h4>✅ COMPLETED</h4>
-<ul align="left">
-<li>✓ Java Advanced Concepts</li>
-<li>✓ Spring Boot Basics</li>
-<li>✓ REST API Development</li>
-<li>✓ MySQL Database Design</li>
-<li>✓ Git & GitHub Mastery</li>
-<li>✓ Arduino Programming</li>
-<li>✓ Responsive Web Design</li>
-</ul>
+📚<br/><b>Books</b><br/>
+<sub>Effective Java, Clean Code</sub>
 </td>
 <td align="center" width="25%">
-<h4>🔄 IN PROGRESS</h4>
-<ul align="left">
-<li>⏳ Microservices (60%)</li>
-<li>⏳ Docker Containers (45%)</li>
-<li>⏳ Flutter Dev (50%)</li>
-<li>⏳ Cloud Deploy (30%)</li>
-<li>⏳ Testing (JUnit) (70%)</li>
-<li>⏳ Design Patterns (55%)</li>
-<li>⏳ System Design (40%)</li>
-</ul>
+🎥<br/><b>Courses</b><br/>
+<sub>Udemy, Coursera, YouTube</sub>
 </td>
 <td align="center" width="25%">
-<h4>📅 PLANNED</h4>
-<ul align="left">
-<li>○ Kubernetes Basics</li>
-<li>○ GraphQL APIs</li>
-<li>○ Redis Caching</li>
-<li>○ MongoDB Advanced</li>
-<li>○ CI/CD Pipelines</li>
-<li>○ React Native</li>
-<li>○ TypeScript</li>
-</ul>
+💻<br/><b>Practice</b><br/>
+<sub>LeetCode, HackerRank</sub>
 </td>
 <td align="center" width="25%">
-<h4>🎯 TARGETS</h4>
-<ul align="left">
-<li>🏆 3 Certifications</li>
-<li>🌟 10 OSS Contributions</li>
-<li>📱 2 Mobile Apps</li>
-<li>🌐 5 Web Projects</li>
-<li>🤖 3 Robot Projects</li>
-<li>📝 50+ Blog Posts</li>
-<li>🎓 1000+ Learning Hours</li>
-</ul>
+🌐<br/><b>Communities</b><br/>
+<sub>Stack Overflow, GitHub</sub>
 </td>
 </tr>
 </table>
@@ -482,181 +498,171 @@ graph TB
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💬 EPIC DEV WISDOM
+## 💡 CODING PHILOSOPHY & PRINCIPLES
 
 <div align="center">
 
-### 💎 Daily Motivation
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-### 🎓 Coding Philosophy
-
-> *"First, solve the problem. Then, write the code."* - John Johnson
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-> *"The best error message is the one that never shows up."* - Thomas Fuchs
-
-### 🔥 Personal Mantras
-
-```text
-⚡ "Clean code always looks like it was written by someone who cares."
-🎯 "Make it work, make it right, make it fast."
-💡 "A program is never finished, only abandoned."
-🚀 "The only way to go fast is to go well."
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎵 EPIC CODING SOUNDTRACK
-
-<div align="center">
-
-### 🎧 Now Playing
-
-<p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/44cwrrd5b/WhatsApp%20Image%202026-02-07%20at%2022.57.50.jpeg" width="550" style="border-radius:20px; border:5px solid #00FFFF; box-shadow: 0 0 40px rgba(0, 255, 255, 0.8), 0 0 60px rgba(138, 43, 226, 0.5);" alt="Now Playing"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/FahryAditya/Properti/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="500" alt="Coding Vibe" style="border-radius:20px;"/>
-
-### 🎶 Ultimate Coding Playlist
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110144.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🏇 Umapyoi Densetsu</b><br/>
-<sub>Uma Musume</sub><br/>
-<img src="https://img.shields.io/badge/Genre-J--Pop-FF1493?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110128.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🎊 Tracen Ondo</b><br/>
-<sub>Uma Musume</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Anime-00FFFF?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh8cyg8/110127.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>☀️ Otsukare Summer</b><br/>
-<sub>HALCALI</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Hip--Hop-8A2BE2?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🎵 Please Please</b><br/>
-<sub>Ayaka Osashi</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Pop-FFD700?style=flat-square"/>
-</td>
-<td align="center" width="20%">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🌧️ Grand Escape</b><br/>
-<sub>Radwimps</sub><br/>
-<img src="https://img.shields.io/badge/Genre-Rock-FF6B6B?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="140" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br/>
-<b>🏆 Winning the Seoul</b><br/>
-<sub>Oguri Cap</sub><br/>
-<img src="https://img.shields.io/badge/Genre-J--Rock-9B59B6?style=flat-square"/>
-</td>
-<td align="center" colspan="4">
-<br/>
-<h3>🎼 Mood-Based Playlists</h3>
-<img src="https://img.shields.io/badge/🔥_Energetic-Red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/😌_Chill-Blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_Focus-Green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌙_Night_Code-Purple?style=for-the-badge"/>
-<br/><br/>
-<sub>🎧 Music fuels my creativity | 🎵 Currently on repeat</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 WEEKLY DEVELOPMENT INSIGHTS
-
-<div align="center">
-
-### ⏱️ Coding Activity Breakdown
-
-<!--START_SECTION:waka-->
-```text
-💻 This Week's Time Distribution
-
-Java             14 hrs 25 mins  ███████████████░░░░░░  52.3%  🔥
-JavaScript        5 hrs 48 mins  █████░░░░░░░░░░░░░░░░  21.0%  ⚡
-HTML/CSS          3 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░  11.6%  🎨
-Arduino/C++       2 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░   9.4%  🤖
-Python            1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░░   3.9%  🐍
-Other               28 mins     ░░░░░░░░░░░░░░░░░░░░░   1.8%  📝
-
-📅 Total Coding Time: 27 hrs 33 mins
-🔥 Longest Streak: 47 days
-⭐ Most Productive Day: Thursday
-🎯 Average Daily Coding: 3.9 hours
-```
-<!--END_SECTION:waka-->
-
-### 📈 Productivity Stats
+### 🎯 Core Development Principles
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔥_Commits_This_Week-47-orange?style=for-the-badge"/>
-<br/><sub>+23% from last week</sub>
+<td width="50%" valign="top">
+
+#### 📜 SOLID Principles
+
+```java
+// Single Responsibility Principle
+class UserService {
+    // Only handles user operations
+    public void createUser(User user) { }
+    public void updateUser(User user) { }
+}
+
+// Open/Closed Principle
+interface PaymentProcessor {
+    void processPayment(Payment payment);
+}
+
+// Liskov Substitution Principle
+class CreditCardProcessor implements PaymentProcessor {
+    @Override
+    public void processPayment(Payment payment) { }
+}
+
+// Interface Segregation Principle
+interface Readable {
+    void read();
+}
+
+interface Writable {
+    void write();
+}
+
+// Dependency Inversion Principle
+class OrderService {
+    private final PaymentProcessor processor;
+    
+    public OrderService(PaymentProcessor processor) {
+        this.processor = processor;
+    }
+}
+```
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/⚡_PRs_Merged-12-success?style=for-the-badge"/>
-<br/><sub>Contributing actively</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎯_Issues_Closed-8-blue?style=for-the-badge"/>
-<br/><sub>Problem solver mode</sub>
+<td width="50%" valign="top">
+
+#### 🏗️ Clean Code Practices
+
+```java
+// ❌ Bad Practice
+public void d(int x, int y) {
+    int z = x + y;
+    System.out.println(z);
+}
+
+// ✅ Good Practice
+public void calculateAndDisplaySum(
+    int firstNumber, 
+    int secondNumber
+) {
+    int sum = firstNumber + secondNumber;
+    displayResult(sum);
+}
+
+private void displayResult(int result) {
+    System.out.println(
+        "The sum is: " + result
+    );
+}
+
+// ✅ Meaningful Names
+class UserRegistrationService {
+    private final EmailValidator emailValidator;
+    private final PasswordEncoder passwordEncoder;
+    
+    public RegistrationResult registerNewUser(
+        UserRegistrationRequest request
+    ) {
+        // Clear, self-documenting code
+        validateEmail(request.getEmail());
+        String encodedPassword = 
+            encodePassword(request.getPassword());
+        
+        return saveUser(request, encodedPassword);
+    }
+}
+```
+
 </td>
 </tr>
 </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🤝 LET'S BUILD SOMETHING EPIC TOGETHER!
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
-    <img src="https://img.shields.io/badge/TikTok-@ryu.kitasan-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
-    <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
-  </a>
-  <a href="https://github.com/FahryAditya">
-    <img src="https://img.shields.io/badge/GitHub-@FahryAditya-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
-
-
-
-</p>
-
-### 💼 What I'm Looking For
+### 💭 Development Mantras
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤝-Collaborations-00FFFF?style=for-the-badge"/><br/>
-<b>Open Source Projects</b><br/>
+<img src="https://img.shields.io/badge/Code_Quality-First-00FFFF?style=for-the-badge"/><br/>
+<b>✨ Quality Over Quantity</b><br/>
+<sub>Write code that others can read</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Test_Driven-Development-FF6B6B?style=for-the-badge"/><br/>
+<b>🧪 Test Everything</b><br/>
+<sub>If it's not tested, it's broken</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Keep_It-Simple-8A2BE2?style=for-the-badge"/><br/>
+<b>🎯 KISS Principle</b><br/>
+<sub>Simplicity is the ultimate sophistication</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Refactor-Regularly-FFD700?style=for-the-badge"/><br/>
+<b>🔄 Continuous Improvement</b><br/>
+<sub>Code is never finished, only shipped</sub>
+</td>
+</tr>
+</table>
+
+### 🎨 Code Style Guide
+
+```yaml
+🎯 Naming Conventions:
+  Classes: PascalCase (UserService, PaymentProcessor)
+  Methods: camelCase (getUserById, processPayment)
+  Constants: UPPER_SNAKE_CASE (MAX_RETRY_COUNT)
+  Variables: camelCase (userName, totalAmount)
+
+📝 Code Organization:
+  - Group related methods together
+  - Use meaningful package structure
+  - Keep classes focused and small
+  - Document complex logic
+
+🔍 Code Review Checklist:
+  ✅ Is the code readable?
+  ✅ Are names meaningful?
+  ✅ Is error handling proper?
+  ✅ Are there unit tests?
+  ✅ Is it documented?
+  ✅ Follows project standards?
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 COLLABORATION & CONTRIBUTIONS
+
+<div align="center">
+
+### 🌟 Open for Collaboration
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻-Projects-00FFFF?style=for-the-badge"/><br/>
+<b>Open Source</b><br/>
 <sub>Let's build amazing things together!</sub>
 </td>
 <td align="center" width="25%">
@@ -867,6 +873,6 @@ const funFacts = {
   
 ### 💫 "Code is Poetry, Execution is Art" 💫
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Have+an+epic+day!+%F0%9F%9A%80;Don't+forget+to+star+%E2%AD%90+if+you+like+my+work!;Open+for+collaboration+and+opportunities!+%F0%9F%A4%9D;Let's+connect+and+build+something+amazing!+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Have+an+epic+day!+🚀;Don't+forget+to+star+⭐+if+you+like+my+work!;Open+for+collaboration+and+opportunities!+🤝;Let's+connect+and+build+something+amazing!+🌟" />
 
 </div>
