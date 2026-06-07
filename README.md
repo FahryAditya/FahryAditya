@@ -7,24 +7,27 @@
 
 <!-- Profile Picture with Glow Effect -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3n8v9v/44bc3nutq/265152.jpg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Haruxa Profile"/>
+  <img src="https://uploads.onecompiler.io/43k3cj6jv/1780815066136/%F0%9F%A6%88%F0%93%82%81%20%E1%B4%9C%E1%B4%8D%C9%AA%20%E1%B4%80s%E1%B4%80%C9%B4%E1%B4%80%C9%A2%C9%AA%20%F0%93%87%BC%E0%B0%8C%EF%B8%8E%20(1).jpg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Haruxa Profile"/>
 </p>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Haruxa;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Mimin+Adresrteia;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </p>
 
 <!-- Social Badges with Animations -->
 <p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
+  <a href="https://www.tiktok.com/@artemisotakuid?is_from_webapp=1&sender_device=pc">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
+  <a href="https://www.instagram.com/miminadresteia?igsh=MWJzZmp6c2pyeGwyZQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/FahryAditya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://fahry-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=Profile%20Views&color=00CFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -107,7 +110,7 @@ motto: "Code is poetry written in logic"
 
 ### 🌐 Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwindcss,bootstrap,supabase,neon&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -119,6 +122,12 @@ motto: "Code is poetry written in logic"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+</p>
+
+### ☁️ Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,azure&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle-Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -238,7 +247,7 @@ graph LR
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahryAditya/Properti/9a8473bc21eab1ed342f1ac93ef3f2f81ded1e15/GIF_20251026135434830.gif" width="400" alt="Coding Vibe" style="border-radius:15px;"/>
+  <img src="https://github.com/FahryAditya/KomentarKu/raw/main/GIF_20260607142153483.gif" width="600" style="border-radius:15px; border:4px solid #00CFFF; box-shadow: 0 0 25px rgba(0, 207, 255, 0.6);" alt="Coding Vibe"/>
 </p>
 
 ### 🎧 Current Playlist
@@ -286,7 +295,7 @@ graph LR
 
 <!--START_SECTION:waka-->
 ```text
-Java         12 hrs 30 mins  ████████████░░░░░░░░░  48.2%
+Nextjs        131 hrs 15 mins  ████████████░░░░░░░░░  48.2%
 HTML/CSS      5 hrs 15 mins  ████░░░░░░░░░░░░░░░░░  20.3%
 JavaScript    4 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░  16.8%
 Arduino       2 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░  10.6%
@@ -299,10 +308,10 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.tiktok.com/@ryu.kitasan?_r=1&_t=ZS-93HcLucUWer">
-    <img src="https://img.shields.io/badge/TikTok-@ryu.kitasan-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://www.tiktok.com/@artemisotakuid?is_from_webapp=1&sender_device=pc">
+    <img src="https://img.shields.io/badge/TikTok-@artemisotakuid-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/takumaharuto?igsh=MWJzZmp6c2pyeGwyZQ==">
+  <a href="https://www.instagram.com/miminadresteia?igsh=MWJzZmp6c2pyeGwyZQ==">
     <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/FahryAditya">
