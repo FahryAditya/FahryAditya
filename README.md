@@ -2,12 +2,12 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Welcome%20to%20Ryu%20Kitasan's%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mimin%20Adresteia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
 </p>
 
 <!-- Profile Picture with Glow Effect -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/1780815066136/%F0%9F%A6%88%F0%93%82%81%20%E1%B4%9C%E1%B4%8D%C9%AA%20%E1%B4%80s%E1%B4%80%C9%B4%E1%B4%80%C9%A2%C9%AA%20%F0%93%87%BC%E0%B0%8C%EF%B8%8E%20(1).jpg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Haruxa Profile"/>
+  <img src="https://uploads.onecompiler.io/43k3cj6jv/1782804817819/WhatsApp%20Image%202026-06-30%20at%2015.31.55.jpeg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Haruxa Profile"/>
 </p>
 
 <!-- Dynamic Typing Animation -->
