@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mimin%20Adresteia&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mimin%20Cassandra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
 </p>
 
 <!-- Profile Picture with Glow Effect -->
