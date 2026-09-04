@@ -2,12 +2,12 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mimin%20Cassandra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mimin%20Cassandra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
 </p>
 
-<!-- Profile Picture with Glow Effect -->
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/1782804817819/WhatsApp%20Image%202026-06-30%20at%2015.31.55.jpeg" width="200" style="border-radius:50%; border: 6px solid #00CFFF; box-shadow: 0 0 40px rgba(0, 207, 255, 0.8);" alt="Haruxa Profile"/>
+  <img src="https://github.com/FahryAditya.png" width="180" height="180" alt="Fahry Aditya Profile" style="border-radius: 50%;" />
 </p>
 
 <!-- Dynamic Typing Animation -->
@@ -15,28 +15,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Mimin+Adresrteia;%E2%98%95+Java+Developer+%7C+Robotics+Programmer;%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 </p>
 
-<!-- Social Badges with Animations -->
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.tiktok.com/@artemisotakuid?is_from_webapp=1&sender_device=pc">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://www.tiktok.com/@artemisotakuid?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://www.instagram.com/miminadresteia?igsh=MWJzZmp6c2pyeGwyZQ==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/miminadresteia?igsh=MWJzZmp6c2pyeGwyZQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/FahryAditya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/FahryAditya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://fahry-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://fahry-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=FahryAditya&label=Profile%20Views&color=00CFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🎯 About Me
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FahryAditya&theme=tokyonight&hide_border=true&layout=compact" />
 
 ```yaml
 name: Fahry Aditya Setiawan
@@ -54,8 +54,6 @@ dream: Professional Software Engineer
 motto: "Code is poetry written in logic"
 ```
 
-<br clear="right"/>
-
 ### 💡 What I Do
 - 🤖 **Robotics Programming** - Building intelligent automation systems
 - ☕ **Java Development** - Creating robust backend applications
@@ -70,11 +68,13 @@ motto: "Code is poetry written in logic"
 - 📱 Flutter for Cross-Platform Development
 - 🧠 Design Patterns & Clean Code Principles
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🏆 Achievements & Milestones
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Java-Applications-007396?style=for-the-badge&logo=java&logoColor=white"/><br/>
@@ -99,70 +99,80 @@ motto: "Code is poetry written in logic"
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🛠️ Tech Arsenal
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,dart,flutter,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,dart,flutter,python&theme=dark" alt="Languages" />
 </p>
 
 ### 🌐 Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwindcss,bootstrap,supabase,neon&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwindcss,bootstrap,supabase,neon&theme=dark" alt="Web Technologies" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode,androidstudio&theme=dark" alt="Tools & DB" />
 </p>
 
 ### 🔧 Hardware & Robotics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
 </p>
 
 ### ☁️ Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,azure&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gcp,azure&theme=dark" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Oracle-Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahryAditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahryAditya&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahryAditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=FahryAditya&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" height="180" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=c9d1d9&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahryAditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
 </div>
+
+<br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahryAditya&theme=tokyo-night&bg_color=0D1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=FahryAditya&theme=tokyo-night&bg_color=0D1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <!-- Trophy Display -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahryAditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=FahryAditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%" alt="Trophy Display" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 📁 Project Portfolio
 
 <div align="center">
 
 | 🎯 Category | 📊 Count | 🔥 Status |
-|------------|---------|----------|
+|:---|:---:|:---|
 | ☕ Java Projects | 4 | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
 | 🌐 Web Projects | 3 | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
 | 🖥️ CLI Tools | 2 | ![](https://img.shields.io/badge/Maintained-blue?style=flat-square) |
@@ -206,7 +216,9 @@ motto: "Code is poetry written in logic"
 </ul>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🎯 2025 Goals & Roadmap
 
@@ -230,24 +242,24 @@ graph LR
 - [ ] Master Flutter development
 - [ ] Build production-ready portfolio
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 💬 Daily Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🎵 Coding Soundtrack
 
 <p align="center">
-  <img src="https://uploads.onecompiler.io/43k3cj6jv/43zbhfs2b/WhatsApp%20Image%202025-10-11%20at%2022.04.01%20(1).jpeg" width="500" style="border-radius:15px; border:4px solid #00CFFF; box-shadow: 0 0 25px rgba(0, 207, 255, 0.6);" alt="Now Playing"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/FahryAditya/KomentarKu/raw/main/GIF_20260607142153483.gif" width="600" style="border-radius:15px; border:4px solid #00CFFF; box-shadow: 0 0 25px rgba(0, 207, 255, 0.6);" alt="Coding Vibe"/>
+  <img src="https://raw.githubusercontent.com/FahryAditya/KomentarKu/main/GIF_20260607142153483.gif" width="600" alt="Coding Vibe" />
 </p>
 
 ### 🎧 Current Playlist
@@ -271,17 +283,17 @@ graph LR
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="200">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7y2fs/110124.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Please Please</b><br/>
       <sub>Ayaka Osashi</sub>
     </td>
-    <td align="center">
+    <td align="center" width="200">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110123.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Grand Escape</b><br/>
       <sub>Radwimps</sub>
     </td>
-    <td align="center">
+    <td align="center" width="200">
       <img src="https://uploads.onecompiler.io/43k3cj6jv/43zh7r7ja/110125.jpg" width="120" style="border-radius:12px;"/><br/>
       <b>🎵 Winning the Seoul</b><br/>
       <sub>Oguri Cap</sub>
@@ -289,7 +301,9 @@ graph LR
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 📊 Weekly Development Breakdown
 
@@ -303,29 +317,33 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.tiktok.com/@artemisotakuid?is_from_webapp=1&sender_device=pc">
-    <img src="https://img.shields.io/badge/TikTok-@artemisotakuid-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://www.tiktok.com/@artemisotakuid?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@artemisotakuid-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://www.instagram.com/miminadresteia?igsh=MWJzZmp6c2pyeGwyZQ==">
-    <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/miminadresteia?igsh=MWJzZmp6c2pyeGwyZQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@takumaharuto-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/FahryAditya">
-    <img src="https://img.shields.io/badge/GitHub-@FahryAditya-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/FahryAditya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@FahryAditya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💼_Open_for-Collaboration-00CFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📧_Email-Available-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤝_Mentorship-Welcome-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_for-Collaboration-00CFFF?style=for-the-badge" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Available-brightgreen?style=for-the-badge" alt="Email"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D_Mentorship-Welcome-yellow?style=for-the-badge" alt="Mentorship"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🌟 Support My Journey
 
@@ -344,21 +362,25 @@ Others        1 hr 5 mins    █░░░░░░░░░░░░░░░░
   <i>💡 Feel free to reach out for collaboration!</i>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer Banner" />
 </p>
 
 <p align="center">
-  <sub>Made with 💙 by Ryu Kitasan | Last Updated: January 2026</sub><br/>
+  <sub>Made with 💙 by Ryu Kitasan | Last Updated: 2026</sub><br/>
   <sub>© 2026 Fahry Aditya Setiawan. All Rights Reserved.</sub>
 </p>
